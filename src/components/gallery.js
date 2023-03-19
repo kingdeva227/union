@@ -12,7 +12,7 @@ const Gallery = (props) => {
     <hr className="mt-2 mb-5" />
     <div className="row text-center text-lg-start">
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -21,7 +21,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -30,7 +30,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -39,7 +39,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -48,7 +48,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -57,7 +57,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -66,7 +66,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -75,7 +75,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -84,7 +84,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -93,7 +93,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -102,7 +102,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
@@ -111,7 +111,7 @@ const Gallery = (props) => {
         </a>
       </div>
       <div className="col-lg-3 col-md-4 col-6">
-        <a href="#" className="d-block mb-4 h-100">
+        <a href={{}} className="d-block mb-4 h-100">
           <img
             className="img-fluid img-thumbnail"
             src={Image}
