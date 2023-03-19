@@ -1,5 +1,5 @@
 import React from "react";
-const Image = "https://img.freepik.com/premium-vector/businessman-icon-vector-white-background-profile-avatar-user-icon_820464-233.jpg"
+const Image = "https://www.howtogeek.com/wp-content/uploads/2021/08/YouTube-logo-hero-1.png"
 
 const Gallery = (props) => {
     return (
