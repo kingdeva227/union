@@ -1,8 +1,4 @@
-
-const img1 = "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5924.jpg";
-const img2 = "https://as2.ftcdn.net/v2/jpg/00/34/71/49/1000_F_34714991_LS7RnWaqPc0LDC9P2g01SEcwNk6sKbpV.jpg";
-const img3 = "https://as2.ftcdn.net/v2/jpg/00/76/14/87/1000_F_76148786_D1h7DkbF8YuQrdMJR0Fpwvu3DLhqeZwi.jpg";
-
+import img from "../images.png";
 const Carousel = (props) => {
     return (
         <div className="container-lg my-3">
@@ -16,13 +12,13 @@ const Carousel = (props) => {
             {/* Wrapper for carousel items */}
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src={img1} className=" img-fluid d-block w-100" alt="Slide 1" />
+                    <img src={img} className=" img-fluid d-block w-100" alt="Slide 1" />
                 </div>
                 <div className="carousel-item">
-                    <img src={img2} className=" img-fluid d-block w-100" alt="Slide 2" />
+                    <img src={img} className=" img-fluid d-block w-100" alt="Slide 2" />
                 </div>
                 <div className="carousel-item">
-                    <img src={img3} className=" img-fluid d-block w-100" alt="Slide 3" />
+                    <img src={img} className=" img-fluid d-block w-100" alt="Slide 3" />
                 </div>
             </div>
             {/* Carousel controls */}
