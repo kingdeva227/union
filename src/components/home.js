@@ -9,7 +9,7 @@ import NewsCards from "./commons/newsCards";
 function Home() {
     const data = {
         tittle: "Secularism",
-        message: "2",
+        message: "2"
     }
     return (
         <div>
